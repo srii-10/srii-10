@@ -1,5 +1,3 @@
-## Hi I am Sri Septina👋
-
 ![Header](img/header%20github.png)
 
 <!--
@@ -17,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning **Introduction to Cybersecurity** on [Cisco Networking Academy](https://www.netacad.com/)
-🌱 I’m currently learning **Fundamental Skills Cybersecurity** on [TryHackMe](https://tryhackme.com/)
+- 🌱 I’m currently learning **Introduction to Cybersecurity** on [Cisco Networking Academy](https://www.netacad.com/)
+- 🌱 I’m currently learning **Fundamental Skills Cybersecurity** on [TryHackMe](https://tryhackme.com/)
