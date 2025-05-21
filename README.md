@@ -1,4 +1,6 @@
-## Hi I am Sri 👋
+## Hi I am Sri Septina👋
+
+![Header](img/header%20github.png)
 
 <!--
 **srii-10/srii-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +18,4 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently learning **Introduction to Cybersecurity** on [Cisco Networking Academy](https://www.netacad.com/)
+🌱 I’m currently learning **Fundamental Skills Cybersecurity** on [TryHackMe](https://tryhackme.com/)
