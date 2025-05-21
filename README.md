@@ -1,6 +1,6 @@
-##  Welcome to My Github Profile!👋🏼
-
 ![Header](img/header%20github.png)
+
+##  Welcome to My Github Profile!👋🏼
 
 <!--
 **srii-10/srii-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
