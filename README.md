@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 ### Let's Connect with Me!
 
 ![https://www.instagram.com/sriisept_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![https://www.linkedin.com/in/sri-septina-marpaung/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![www.linkedin.com/in/sri-septina-marpaung](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
