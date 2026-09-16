@@ -5,7 +5,7 @@
 I'm a cybersecurity enthusiast interested in understanding how and why security incidents happen. I enjoy analyzing logs, network activity, and security events to understand what happened, identify potential causes,
 and explore possible solutions or mitigations. Currently building hands-on experience through cybersecurity labs, security simulations, and practical projects.
 
----
+--
 
 ## Areas of interest
 - Cybersecurity Analysis
@@ -18,5 +18,5 @@ and explore possible solutions or mitigations. Currently building hands-on exper
 Wireshark · Nmap · Hydra · Windows & Linux (VM) · Windows Event Viewer · Cisco Packet Tracer · VirtualBox · Visual Studio Code · TryHackMe · GitHub
 
 ## Connect
-[LinkedIn](www.linkedin.com/in/sri-septina-marpaung)
+[LinkedIn](https://linkedin.com/in/sri-septina-marpaung)
 [TryHackMe](https://tryhackme.com/p/Moon4rm0r)
